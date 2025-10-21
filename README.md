@@ -1,5 +1,5 @@
 ## amo minha gata( ´ ▽ ` )
-<img src="https://www.irishtimes.com/resizer/v2/7WOCB2V7IT5DEZ6LPXCR3LFHYY.jpg?auth=049dfdd562154c53ff3fa42601f008ee4382c7a317faa94641059d6c69bb0ed2&smart=true&width=1600&height=900" alt="jeffbuckley">
+<img src="https://www.irishtimes.com/resizer/v2/7WOCB2V7IT5DEZ6LPXCR3LFHYY.jpg?auth=049dfdd562154c53ff3fa42601f008ee4382c7a317faa94641059d6c69bb0ed2&smart=true&width=1600&height=900" alt="jeffbuckley" style="pointer-events:none">
 
 
 <!--
