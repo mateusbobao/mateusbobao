@@ -1,4 +1,6 @@
 ## amo minha gata( ´ ▽ ` )
+![Texto Alternativo](https://cdn.awsli.com.br/800x800/2279/2279925/produto/341594612/grace-kyxl2h6b3e.jpg)
+
 
 <!--
 **mateusbobao/mateusbobao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
